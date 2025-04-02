@@ -1,14 +1,15 @@
-.left{
-    color: white;
-    font-weight: bold;
-    background-color: black;
+.left {
+  color: white;
+  font-weight: bold;
+  background-color: black;
 }
 
-.right{
-    background-color: yellow;
+.right {
+  background-color: yellow;
 }
 
-.both{
-    font-size: 28px;
-    font-family: Helvetica, 'Times New Roman', sans-serif;
+.right,
+.left {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
 }
